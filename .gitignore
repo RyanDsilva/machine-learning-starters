@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 
 /sentiment_analysis/KEYS.py
+.vscode
