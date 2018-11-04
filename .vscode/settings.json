@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "C:\\Users\\Ryan\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+  "python.formatting.provider": "autopep8",
+  "python.linting.pylintEnabled": false
+}
