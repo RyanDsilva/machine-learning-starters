@@ -105,3 +105,5 @@ venv.bak/
 
 /sentiment_analysis/KEYS.py
 .vscode
+speech/KEYS.py
+speech/__pycache__
