@@ -109,3 +109,4 @@ speech/KEYS.py
 speech/__pycache__
 
 object_detection/resnet50.h5
+object_detection/realtime/MobileNetSSD_deploy.caffemodel
