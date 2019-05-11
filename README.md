@@ -1,4 +1,7 @@
-# ML Starter
+# Machine Learning Starters 💻
 
-Basic Machine Learning Examples
-Code inspired by the Youtube Series by Siraj Raval
+Basic Machine Learning Examples built as python files `.py` as opposed to Jupyter notebooks.
+
+## Contents
+
+- [Classifiers](/classifers)
