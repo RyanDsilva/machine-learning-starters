@@ -4,4 +4,4 @@ Basic Machine Learning Examples built as python files `.py` as opposed to Jupyte
 
 ## Contents
 
-- [Classifiers](/classifers)
+- [Classifiers](https://github.com/RyanDsilva/machine-learning-starters/tree/master/classifiers)
