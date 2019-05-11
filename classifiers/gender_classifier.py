@@ -24,6 +24,12 @@ Y = df['Gender']
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(X, Y)
 
+# Take Input
+c = float(input('Enter Favourite Colour\n'))
+m = float(input('Enter Favourite Music Genre\n'))
+b = float(input('Enter Favourite Beverage\n'))
+s = float(input('Enter Favourite Soft Drink\n'))
+
 # Predict
-predict = clf.predict([[2, 4, 4, 1]])
+predict = clf.predict([[c, m, b, s]])
 print(predict)
