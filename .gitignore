@@ -103,10 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-/sentiment_analysis/KEYS.py
 .vscode
 speech/KEYS.py
 speech/__pycache__
-
-object_detection/resnet50.h5
-object_detection/realtime/MobileNetSSD_deploy.caffemodel
